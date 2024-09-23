@@ -1,4 +1,8 @@
+![image](https://github.com/user-attachments/assets/ff7e58cc-cd38-4a2b-865a-3b9873c7bd9a)
+
+
 Terraform apply will return output EC2 instance ID for developer can use SSM function.
+
 
 # tf-repo
 
