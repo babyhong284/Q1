@@ -1,3 +1,5 @@
+Terraform apply will return output EC2 instance ID for developer can use SSM function.
+
 # tf-repo
 
 To connect to bastion host, run the below command
